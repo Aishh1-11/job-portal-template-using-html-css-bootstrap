@@ -5,6 +5,8 @@ I created this project as part of my learning practice to improve my frontend de
 
 The template includes multiple pages commonly used in job portals such as job listings, job details, user profiles, and more.
 
+https://aishh1-11.github.io/job-portal-template-using-html-css-bootstrap/
+
 ---
 
 ## 🚀 Features
